@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+}
+
+.rightContent {
+    float: right;
+}
+
+a {
+    margin-right: 15px;
+    margin-left: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+header {
+    margin-top: 10px;
+}
+
+#main-content {
+    text-align: center;
+}
+
+#search-bar {
+    display: block;
+    margin: 0 auto;
+    width: 520px;
+    height: 34px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 25vh;
+    width: 272px;
+    height: auto;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+    height: 30px;
+    border: 1px solid #e4e4e4;
+}
