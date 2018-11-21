@@ -1,0 +1,1 @@
+This project is meant to practice re-creating the Google homepage. It is a part of The Odin Project course.
